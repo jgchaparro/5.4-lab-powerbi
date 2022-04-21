@@ -7,7 +7,7 @@
 
 [Power BI](https://www.tableau.com/) as Tableau is a data visualization tool which provides pictorial and graphical representations of data.
 
-Your aim in this lab is to create a **Power BI dashboard** that shows the insights you find useful from de given data.
+Your goal in this lab is to create a **Power BI dashboard** that shows the insights you find useful from de given data.
 
 ## Your `data`
 In the `data` folder you will find the following files:
@@ -20,39 +20,38 @@ In the `data` folder you will find the following files:
 
 ## Getting Started
 
-
 #### Challenge 1
-Open Tableau in your laptop and import the data.
+Open Power BI in your laptop and import the data.
 
-Create at least **`5 sheets`** explaining different insights, pay attention to the details, choose the proper figures and/or tables, build the sheets coherently with each other (example: if china is red in a graph it shoul be associated to red everywhere).
+Create at least **`5 different figures`** explaining different insights, pay attention to the details, choose the proper figures and/or tables, build the figures coherently with each other (example: if china is red in a graph it shoul be associated to red everywhere).
 
 #### Challenge 2 
-Create at least **`two dashboards`** where you structure the info in the sheets in a way that everything make sense, it's easily readable and self explanatory.
+Create a **`dashboard`** where you structure the info in the sheets in a way that everything make sense, it's easily readable and self explanatory. It must have at least two pages.
 
-#### Challenge 3
-Create a **`story`** to connect everything together. It should include connecting buttons.
 
 ## Deliverables
 
-Create your own [tableau public profile](https://public.tableau.com/s/), and upload your dashboard. Remember to set it public so anyone can check it out.
+Export the dashboard to a .pbix file and upload it to your Github repository.
 
-+ `Markdown` file explaining the most important insights you found in the data.
-+ `Link` to your tableau public profile dashboard (You can include it in the markdown file).
+:fire: **In case Github can´t handle your huge dashboard...** :fire:
+Export your dashboard to pdf or screenshot each page and paste it in a Power Point presentation.
+
+Add this file to your repository.
 
 ## Submission
 
-Add your deliverables to git. Then commit git and push your branch to the remote.
+Add your deliverables to git. Then commit, add and push your branch to the remote.
 
 Don't forget to create a pull request!
 
-(In case you have doubts about the pull request click [here](https://github.com/Ironhack-Data-Madrid-Marzo-2022/apuntes_clase/tree/master/Pull-requests_instructions#readme))
+:skull:(In case you have doubts about the pull request click [here](https://github.com/Ironhack-Data-Madrid-Marzo-2022/apuntes_clase/tree/master/Pull-requests_instructions#readme))
 
 ## Resources
 
-[Power BI official learning](https://help.tableau.com/current/guides/get-started-tutorial/es-es/get-started-tutorial-home.htm)
+:rocket:[Power BI official learning](https://help.tableau.com/current/guides/get-started-tutorial/es-es/get-started-tutorial-home.htm)
 
-[Power BI in Youtube](https://www.youtube.com/watch?v=1c01r_pAZdk&list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP)
+:rocket:[Power BI in Youtube](https://www.youtube.com/watch?v=1c01r_pAZdk&list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP)
 
-[Power BI templates](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
+:rocket:[Power BI templates](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
 
-[Markdown format cheatsheet](https://www.markdownguide.org/cheat-sheet)
+:rocket:[Markdown format cheatsheet](https://www.markdownguide.org/cheat-sheet)
